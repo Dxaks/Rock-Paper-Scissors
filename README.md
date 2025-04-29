@@ -1,1 +1,3 @@
 # Rock-Paper-Scissors
+
+This Project is dedicated for my learning journey of Full Stack Developer in the Odin Project...
