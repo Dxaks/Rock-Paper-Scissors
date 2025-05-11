@@ -1,3 +1,9 @@
 # Rock-Paper-Scissors
 
-This Project is dedicated for my learning journey of Full Stack Developer in the Odin Project...
+the Game has 5 round that will be played against computer
+
+player and computer will inputs their choses
+
+a winner will be anounce for each round
+
+when the game reaches 5th round, the final winner will be declare
